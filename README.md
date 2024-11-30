@@ -29,4 +29,4 @@ This module will itself make the input box's text align right to left so that it
 
 This module assumes that the keyboard structure of your computer is as of the following image.
 
-![keyboard layout](https://github.com/walid-mashal/Auto-Type-Urdu/blob/main/img/urdu-pakistan-keyboard.png)
+![keyboard layout](https://github.com/walid-mashal/Auto-Type-Urdu-Pakistan/blob/main/img/urdu-pakistan-keyboard.png)
